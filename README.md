@@ -1,7 +1,7 @@
 # AUTORES
 Daniel Burbano
 Alex Yamba
-
+![alt text](https://imgur.com/RT7Q1MA)
 [Imgur](https://imgur.com/RT7Q1MA)
 
 # vue-docker
