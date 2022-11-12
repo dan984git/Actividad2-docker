@@ -5,7 +5,7 @@ Alex Yamba
 
 ## IMÁGENES
 
-[Docker RunNing](https://imgur.com/N4YMiuK)
+[Docker Running](https://imgur.com/N4YMiuK)
 
 [Vue LocalHost Docker](https://imgur.com/RT7Q1MA)
 
