@@ -1,3 +1,7 @@
+# AUTORES
+Daniel Burbano
+Alex Yamba
+
 # vue-docker
 
 ## Project setup
