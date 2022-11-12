@@ -2,6 +2,8 @@
 Daniel Burbano
 Alex Yamba
 
+[Imgur](https://imgur.com/RT7Q1MA)
+
 # vue-docker
 
 ## Project setup
